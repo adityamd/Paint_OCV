@@ -61,4 +61,4 @@
  
  <img src="https://github.com/adityamd/Paint_OCV/blob/master/Screenshots/pattern.png" height=400px width=500px>
  
- <b><em>Hope you all like the project.Thanks!!!</em></b>
+ <b><em>Hope you like the project.Thanks!!!</em></b>
