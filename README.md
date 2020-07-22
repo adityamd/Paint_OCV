@@ -4,7 +4,7 @@
 <b><em>Few Hints to Use the app:
 <ul>
   <li>You can draw in 2 modes: 0 and 1. Mode 0 is default.</li>
-  <li>Mode 0 helps you to draw a rectangle whereas Mode 1 helps you to draw a circle.</li>
+  <li>Mode 0 helps you in draw a rectangle whereas Mode 1 helps you in draw a circle.</li>
   <li>Press key 'm' to toggle between different modes.</li>
   <li>To exit the application, press 'esc'.</li>
  </ul></b></em>
