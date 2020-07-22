@@ -38,6 +38,18 @@
  
  <br><br>
  
+ <h3>Run the Application:</h3>
+  To run the application:
+ <ol>
+  <li> Go to the directory on your local system where you cloned this repository.</li>
+  <li> Open cmd/powershell/terminal in that directory</li>
+  <li> Fire the command <code>python paint.py</code></li>
+ </ol>
+  You should see the application running on your screen now.
+ 
+ <br><br>
+ 
+ 
  <h2>Application Screenshots</h2>
  <br>
  
